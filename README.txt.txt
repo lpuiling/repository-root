@@ -1,0 +1,8 @@
+EECS 481
+Homework 1
+Pauline Low(lpuiling)
+
+Game: HitThatBalloon
+
+The goal of this game is to get a score of 50 or more. To do so, you will have to hit on the balloons floating around the screen. Each balloon has different points (yellow=1 point, green=2 points, pink=3 points). After getting a score of 50, it means that you have won the game and the game will exit by itself.
+
