@@ -256,7 +256,7 @@ namespace WindowsGame1
             }
             if (thunderRec.Intersects(psmileyRec) && mouseNow.LeftButton == ButtonState.Pressed && mouseLater.LeftButton == ButtonState.Released)
             {
-                score += 3;
+                score -= 3;
                 drawpsmiley = false;
             }
             if (score>0 && drawsmiley==false)
